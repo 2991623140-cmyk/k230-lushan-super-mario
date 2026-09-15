@@ -1,0 +1,20 @@
+# Python / CanMV generated files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Runtime markers and diagnostics written on the board
+mario_error.txt
+mario_boot_ok.txt
+mario_perf.txt
+
+# CanMV IDE temporary files
+.vscode/
+.idea/
+*.log
+
+# Large local firmware images. Keep them locally under 自定义手柄固件/;
+# publish a download link and checksum instead of committing binaries.
+自定义手柄固件/*.img
+自定义手柄固件/*.img.gz
+自定义手柄固件/*.kdimg.gz
