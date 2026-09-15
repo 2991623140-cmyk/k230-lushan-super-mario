@@ -126,13 +126,16 @@ main.py
 
 ### 第三方素材来源
 
-本工程使用的原始关卡、精灵和音频参考资料来自本机目录：
+本工程使用的素材和关卡参考资料来自以下两个本机目录：
 
 ```text
+C:\Users\Honor\Desktop\超级马里奥\超级马里奥源文件\
 C:\Users\Honor\Desktop\超级马里奥\第三方资源包\FullScreenMario\
 ```
 
-其中主要来源项目为 `FullScreenMario`，本地源码目录是：
+其中，`超级马里奥源文件` 是本地保存的原始项目/素材来源，`FullScreenMario` 是用于参考完整关卡、物件定义和网页端实现的第三方开源项目。两者均不是 K230 运行时目录，K230 实际使用的是本仓库内经过整理和转换后的 `data/mario` 文件。
+
+FullScreenMario 的本地目录为：
 
 ```text
 C:\Users\Honor\Desktop\超级马里奥\第三方资源包\FullScreenMario\FullScreenMario-master\
