@@ -4,6 +4,7 @@
 
 - 中文项目名：`k230庐山派-超级马里奥移植`
 - GitHub 仓库：https://github.com/2991623140-cmyk/k230-lushan-super-mario
+- 发布包下载：https://github.com/2991623140-cmyk/k230-lushan-super-mario/releases
 - 当前移植者：焚寂：剑灵
 
 ## 项目记录
